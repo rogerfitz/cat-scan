@@ -8,10 +8,10 @@ TODO:
 
 TODO V2:
 
-* Create scraper on all links from page parsed in V1
+* Create scraper on entire mnn.com and obeythekitty.com using sitemap.xml
 * Display in graph view
 
 Image recognition:  
 
-* how many cats in pitcure
+* how many cats in picture
 * caption
